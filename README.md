@@ -2,13 +2,14 @@
   <img src="/img/github-header-image.png" alt="Header" />
 </p>
 
-### 🧠 Skills
-<p>
+<h3 align="center">🧠 Skills</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,typescript,tailwind,react,nextjs,mysql,laravel,sklearn,postman,git&perline=7" />
 </p>
 
-### 🌐 Connect with Me
-<p>
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -20,7 +21,7 @@
   </a>
 </p>
 
-### ⚡ Recent Activity
+<h3 align="center">⚡ Recent Activity</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matahariann&theme=tokyo-night" alt="Activity Graph" />
 </p>

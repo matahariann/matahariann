@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/dzusunan/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.kaggle.com/sunann](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
 
 
-### **Contribution**
-<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matahariann&theme=tokyo-night) -->
+### **Stats**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matahariann&theme=tokyo-night)
 
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matahariann&theme=monokai)
+<!-- ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matahariann&theme=monokai) -->
+
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=matahariann&theme=onedark)
+

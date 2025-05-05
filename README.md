@@ -2,6 +2,12 @@
   <img src="/img/github-header-image.png" alt="Header" />
 </p>
 
+<h2 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matahariann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariann&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 <h2 align="center">🧠 Skills</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,typescript,tailwind,react,nextjs,mysql,laravel,sklearn,postman,git&perline=20" />

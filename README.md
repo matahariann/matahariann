@@ -4,14 +4,8 @@
 
 <h2 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matahariann&show_icons=true&theme=tokyonight" 
-       alt="GitHub Stats" 
-       width="420" 
-       style="margin-right: 20px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariann&layout=compact&theme=tokyonight" 
-       alt="Top Languages" 
-       width="330" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matahariann&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariann&layout=compact&theme=tokyonight" />
 </p>
 
 <h2 align="center">🧠 Skills</h3>

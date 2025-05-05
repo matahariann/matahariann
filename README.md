@@ -4,7 +4,7 @@
 
 <h2 align="center">🧠 Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,typescript,tailwind,react,nextjs,mysql,laravel,sklearn,postman,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,typescript,tailwind,react,nextjs,mysql,laravel,sklearn,postman,git&perline=20" />
 </p>
 
 <h2 align="center">🌐 Connect with Me</h3>

@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 
 
 ### **Contribution**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matahariann&theme=tokyo-night)
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matahariann&theme=tokyo-night) -->
+
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matahariann&theme=monokai)

@@ -27,6 +27,11 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=matahariann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariann&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matahariann&show_icons=true&theme=tokyonight"
+       alt="GitHub Stats"
+       style="margin-right: 20px; vertical-align: top;" />
+       
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariann&layout=compact&theme=tokyonight"
+       alt="Top Languages"
+       style="vertical-align: top;" />
 </p>

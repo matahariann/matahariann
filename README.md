@@ -26,7 +26,7 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=matahariann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariann&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>

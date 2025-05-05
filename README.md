@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 ### **Contribution**
-<img src=https://github-readme-activity-graph.vercel.app/graph?username={matahariann}/>
+<img src=https://github-readme-activity-graph.vercel.app/graph?username=matahariann>

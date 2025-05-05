@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center">🧠 Skills</h3>
-<hr style="width: 200px; border: 1px solid #ccc; margin: auto;" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,typescript,tailwind,react,nextjs,mysql,laravel,sklearn,postman,git&perline=7" />
 </p>

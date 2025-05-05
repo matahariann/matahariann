@@ -24,16 +24,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matahariann&theme=tokyo-night" alt="Activity Graph" />
 </p>
-
-### 📊 GitHub Stats
-<p>
-  <span style="display: inline-block; vertical-align: top; margin-right: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=matahariann&show_icons=true&theme=tokyonight"
-         alt="GitHub Stats" />
-  </span>
-
-  <span style="display: inline-block; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matahariann&layout=compact&theme=tokyonight"
-         alt="Top Languages" />
-  </span>
-</p>

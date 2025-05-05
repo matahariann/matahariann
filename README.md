@@ -4,7 +4,7 @@
 
 ### 🧠 Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,typescript,tailwind,react,vue,nextjs,laravel,sklearn,postman,mysql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,php,javascript,typescript,tailwind,react,nextjs,mysql,laravel,sklearn,postman,git&perline=7" />
 </p>
 
 ### 🌐 Connect with Me

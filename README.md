@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/github-header-image.png" alt="Header" />
+  <img src="/img/banner.png" alt="Header" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h3>
